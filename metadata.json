@@ -1,0 +1,6 @@
+{
+  "name": "Chama Dispute Arbitrator",
+  "description": "An AI-powered arbitrator for Kenyan savings groups (Chamas) using bylaws and M-Pesa records to resolve disputes fairly.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
